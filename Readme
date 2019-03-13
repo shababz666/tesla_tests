@@ -1,0 +1,2 @@
+#switch to the working directory
+# and type mvn clean test in command prompt and tests should run
